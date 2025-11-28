@@ -3,6 +3,7 @@
 0=gun
 -1=water
 '''
+
 import random
 computer=random.choice([1,0,-1]) # to choose a number randomly from the list
 you_str=input("Enter your choice: ")
